@@ -1,0 +1,43 @@
+C:/Users/Nani/source/Project 3/Studentdataservice/obj/Debug/Studentdataservice.csprojAssemblyReference.cache
+C:/Users/Nani/source/Project 3/Studentdataservice/obj/Debug/Studentdataservice.csproj.CoreCompileInputs.cache
+C:/Users/Nani/source/Project 3/Studentdataservice/bin/Studentdataservice.dll.config
+C:/Users/Nani/source/Project 3/Studentdataservice/bin/Studentdataservice.dll
+C:/Users/Nani/source/Project 3/Studentdataservice/bin/Studentdataservice.pdb
+C:/Users/Nani/source/Project 3/Studentdataservice/bin/DataAccess.dll
+C:/Users/Nani/source/Project 3/Studentdataservice/bin/DataAccess.pdb
+C:/Users/Nani/source/Project 3/Studentdataservice/bin/DataAccess.dll.config
+C:/Users/Nani/source/Project 3/Studentdataservice/obj/Debug/Studentdataservice.csproj.CopyComplete
+C:/Users/Nani/source/Project 3/Studentdataservice/obj/Debug/Studentdataservice.dll
+C:/Users/Nani/source/Project 3/Studentdataservice/obj/Debug/Studentdataservice.pdb
+C:/Users/ravik/Downloads/Project 3/Studentdataservice/bin/Studentdataservice.dll.config
+C:/Users/ravik/Downloads/Project 3/Studentdataservice/bin/Studentdataservice.dll
+C:/Users/ravik/Downloads/Project 3/Studentdataservice/bin/Studentdataservice.pdb
+C:/Users/ravik/Downloads/Project 3/Studentdataservice/bin/DataAccess.dll
+C:/Users/ravik/Downloads/Project 3/Studentdataservice/bin/DataAccess.pdb
+C:/Users/ravik/Downloads/Project 3/Studentdataservice/bin/DataAccess.dll.config
+C:/Users/ravik/Downloads/Project 3/Studentdataservice/obj/Debug/Studentdataservice.csprojAssemblyReference.cache
+C:/Users/ravik/Downloads/Project 3/Studentdataservice/obj/Debug/Studentdataservice.csproj.CoreCompileInputs.cache
+C:/Users/ravik/Downloads/Project 3/Studentdataservice/obj/Debug/Studentdataservice.csproj.CopyComplete
+C:/Users/ravik/Downloads/Project 3/Studentdataservice/obj/Debug/Studentdataservice.dll
+C:/Users/ravik/Downloads/Project 3/Studentdataservice/obj/Debug/Studentdataservice.pdb
+C:/Users/Nani/source/Project 3/Project 3/Studentdataservice/bin/Studentdataservice.dll.config
+C:/Users/Nani/source/Project 3/Project 3/Studentdataservice/bin/Studentdataservice.dll
+C:/Users/Nani/source/Project 3/Project 3/Studentdataservice/bin/Studentdataservice.pdb
+C:/Users/Nani/source/Project 3/Project 3/Studentdataservice/bin/DataAccess.dll
+C:/Users/Nani/source/Project 3/Project 3/Studentdataservice/bin/DataAccess.pdb
+C:/Users/Nani/source/Project 3/Project 3/Studentdataservice/bin/DataAccess.dll.config
+C:/Users/Nani/source/Project 3/Project 3/Studentdataservice/obj/Debug/Studentdataservice.csprojAssemblyReference.cache
+C:/Users/Nani/source/Project 3/Project 3/Studentdataservice/obj/Debug/Studentdataservice.csproj.CoreCompileInputs.cache
+C:/Users/Nani/source/Project 3/Project 3/Studentdataservice/obj/Debug/Studentdataservice.csproj.CopyComplete
+C:/Users/Nani/source/Project 3/Project 3/Studentdataservice/obj/Debug/Studentdataservice.dll
+C:/Users/Nani/source/Project 3/Project 3/Studentdataservice/obj/Debug/Studentdataservice.pdb
+/Users/sc1850/Documents/Project 3/Studentdataservice/bin/Studentdataservice.dll
+/Users/sc1850/Documents/Project 3/Studentdataservice/bin/Studentdataservice.pdb
+/Users/sc1850/Documents/Project 3/Studentdataservice/bin/DataAccess.dll
+/Users/sc1850/Documents/Project 3/Studentdataservice/bin/DataAccess.pdb
+/Users/sc1850/Documents/Project 3/Studentdataservice/bin/DataAccess.dll.config
+/Users/sc1850/Documents/Project 3/Studentdataservice/obj/Debug/Studentdataservice.csprojAssemblyReference.cache
+/Users/sc1850/Documents/Project 3/Studentdataservice/obj/Debug/Studentdataservice.csproj.CoreCompileInputs.cache
+/Users/sc1850/Documents/Project 3/Studentdataservice/obj/Debug/Studentdataservice.csproj.CopyComplete
+/Users/sc1850/Documents/Project 3/Studentdataservice/obj/Debug/Studentdataservice.dll
+/Users/sc1850/Documents/Project 3/Studentdataservice/obj/Debug/Studentdataservice.pdb
